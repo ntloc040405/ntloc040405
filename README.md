@@ -88,11 +88,19 @@
 ---
 
 
-## 📫 Contact
+## 📬 Contact Me
 
-- 📧 Email: ntloc4405@gmail.com  
-- 📱 Phone: 0941267326  
-- 🌐 Facebook: (https://www.facebook.com/thanh.loc.511731/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=loclacloi&show_icons=false&theme=tokyonight&hide_border=false&title_color=00F7FF&text_color=ffffff" width="400"/>
+</p>
+
+<p align="center">
+
+📧 Email: ntloc4405@gmail.com  
+📱 Phone: 0941267326  
+🌐 Facebook: https://www.facebook.com/thanh.loc.511731/ 
+
+</p>
 
 ## 🐍 Contribution Snake
 
