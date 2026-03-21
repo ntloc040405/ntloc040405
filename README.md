@@ -62,15 +62,6 @@
 
 ---
 
-### 🎯 PolyQuiz
-
-- Built interactive quiz UI  
-- Managed question flow and user interaction  
-
-🔗 https://github.com/loclacloi/PolyQuiz  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -91,20 +82,17 @@
 ## 🔥 What I'm Focusing On
 
 - Improving backend & system design  
-- Building real-world fullstack systems  
+- Building real-world full-stack systems  
 - Writing scalable & maintainable frontend code  
 
 ---
 
+
 ## 📫 Contact
 
-<p align="center">
-  <a href="mailto:ntloc4405@gmail.com">
-    <img src="https://img.shields.io/badge/Email-contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
+- 📧 Email: ntloc4405@gmail.com  
+- 📱 Phone: 0941267326  
+- 🌐 Facebook: (https://www.facebook.com/thanh.loc.511731/)
 
 ## 🐍 Contribution Snake
 
