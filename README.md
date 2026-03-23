@@ -26,11 +26,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,git,postman" />
 </p>
 
 <p align="center">
-  HTML • CSS • JavaScript • TypeScript • React • Angular • Node.js • Express • MongoDB • Git
+  HTML • CSS • JavaScript • TypeScript • React • Angular • Node.js • Express • MongoDB • Git • Postman
 </p>
 
 ---
