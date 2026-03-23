@@ -2,17 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Loc</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Frontend+Developer;ReactJS+%7C+Angular+%7C+Node.js;Building+clean+UI+%26+real-world+systems" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Front-end-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/React-Advanced-61DAFB?style=for-the-badge&logo=react"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular"/>
-  <img src="https://img.shields.io/badge/NodeJS-DD0031?style=for-the-badge&logo=angular"/>
-  <img src="https://img.shields.io/badge/MongoDB-DD0031?style=for-the-badge&logo=angular"/>
-
-
+  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,mongodb,ts,js,html,css" />
 </p>
 
 ---
