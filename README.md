@@ -37,47 +37,41 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+---
 
 ### 🧠 PNJ Admin System
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="85%" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="85%" />
 </div>
 
-<div align="center">
-
-<p>
+<p align="center">
 💡 Core developer in a team of 3 <br/>
 ⚙️ Contributed ~30% frontend & backend <br/>
 🚀 Built UI, integrated APIs, supported backend logic
 </p>
 
+<p align="center">
 🔗 <a href="https://github.com/loclacloi/PNJ-Admin-System">View Project</a>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
-
 ### 🛋 DEHO E-commerce
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="85%" />
-
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="85%" />
 </div>
 
-<div align="center">
-
-<p>
+<p align="center">
 🛒 Developed key user features <br/>
 🎨 Focused on UI/UX & interaction <br/>
 🔌 Integrated APIs & supported backend
 </p>
 
+<p align="center">
 🔗 <a href="https://github.com/nguyenvanthienDev/Deho">View Project</a>
-
-</div>
+</p>
 
 ---
 
