@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-<img align="right" width="300" height="100" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="200" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Front-end Developer with real-world full-stack experience  
 - ⚡ Strong in building responsive UI & API integration  
