@@ -16,8 +16,7 @@
 <img align="right" width="200" height="140" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 💻 Front-end Developer with real-world full-stack experience  
-- ⚡ Strong in building responsive UI & API integration  
-- 🤝 Core developer in team projects (3 members)  
+- ⚡ Well-known in building responsive UI & API integration  
 - 🧠 Understand backend flow, auth, and data handling  
 - 🎯 Goal: Become a high-level full-stack Engineer  
 
