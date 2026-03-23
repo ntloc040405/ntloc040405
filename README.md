@@ -6,12 +6,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
-  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <i>"Code is not just code — it's an experience."</i>
 </p>
 
+---
 
 ## 🚀 About Me
 
@@ -28,7 +26,11 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,mongodb,git" />
+</p>
+
+<p align="center">
+  HTML • CSS • JavaScript • TypeScript • React • Angular • Node.js • Express • MongoDB • Git
 </p>
 
 ---
@@ -62,6 +64,19 @@
 
 ---
 
+### 🎸 Music Website
+
+<p>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</p>
+
+- Built UI for musical instrument store  
+- Focused on user experience & UI interaction  
+
+🔗 https://github.com/loclacloi/Web-b-n-nh-c-c-
+
+---
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -87,19 +102,15 @@
 
 ---
 
-
 ## 📬 Contact Me
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=loclacloi&show_icons=false&theme=tokyonight&hide_border=false&title_color=00F7FF&text_color=ffffff" width="400"/>
+  📧 Email: ntloc4405@gmail.com  
+  📱 Phone: 0941267326  
+  🌐 Facebook: <a href="https://www.facebook.com/thanh.loc.511731/">Nguyen Thanh Loc</a>
 </p>
 
-<p align="center">
-
-📧 Email: ntloc4405@gmail.com  
-📱 Phone: 0941267326  
-🌐 Facebook: [Nguyen Thanh Loc](https://www.facebook.com/thanh.loc.511731/)
-</p>
+---
 
 ## 🐍 Contribution Snake
 
