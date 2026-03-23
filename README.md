@@ -2,16 +2,22 @@
 <h1 align="center">Hi 👋, I'm Nguyen Thanh Loc</h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,nodejs,mongodb,ts,js,html,css" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00F7FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;React+%7C+Angular+%7C+Node.js;Building+clean+UI+%26+systems" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=DD0031"/>
+  <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</p>
 ---
 
 ## 🚀 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-- 💻 Frontend Developer with real-world fullstack experience  
+- 💻 Frontend Developer with real-world full-stack experience  
 - ⚡ Strong in building responsive UI & API integration  
 - 🤝 Core developer in team projects (3 members)  
 - 🧠 Understand backend flow, auth, and data handling  
